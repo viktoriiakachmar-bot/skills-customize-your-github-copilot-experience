@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "study-planner-cli",
+      "title": "Study Planner CLI",
+      "description": "Build a command-line planner for managing homework, deadlines, and study priorities.",
+      "path": "assignments/study-planner-cli",
+      "dueDate": "2026-11-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
